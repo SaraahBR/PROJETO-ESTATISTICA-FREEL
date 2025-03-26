@@ -56,6 +56,7 @@ Expressões ambíguas ou indesejadas
 ## ✔️ Leitura de exceções via .json para fácil manutenção e expansão
 
 <br/>🗂️ Estrutura de Pastas
+<br/>🗂️ codigo/
 <br/>📁 noticias/
 <br/>├── Folha/              # Textos jornalísticos da Folha
 <br/>├── G1/                 # Textos jornalísticos do G1
