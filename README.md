@@ -55,11 +55,11 @@ Expressões ambíguas ou indesejadas
 
 # ✔️ Leitura de exceções via .json para fácil manutenção e expansão
 
-🗂️ Estrutura de Pastas
-📁 noticias/
-├── Folha/              # Textos jornalísticos da Folha
-├── G1/                 # Textos jornalísticos do G1
-├── log/                # Relatórios de saída gerados automaticamente
+<br/>🗂️ Estrutura de Pastas
+<br/>📁 noticias/
+<br/>├── Folha/              # Textos jornalísticos da Folha
+<br/>├── G1/                 # Textos jornalísticos do G1
+<br/>├── log/                # Relatórios de saída gerados automaticamente
 
 # 🔍 Exemplo de saída no relatório
 
