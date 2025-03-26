@@ -1,0 +1,6 @@
+-Procurar pronomes oblíquos átonos, são aqueles que complementam verbos e substituem nomes. 
+-Procurar próclise: Quando esses pronomes são colocados antes do verbo. São estes (me, te, se, o, os, a, as, lhe, lhes, nos, vos) 
+-Não considerar "o, a, as, os" quando for artigo, relacionando-se a nomes "o avião", "a casa".
+-Não considerar "a" quando for preposição "entregou a ela";
+-Procurar mesóclise: quando os pronomes forem colocados no meio do verbo, sempre com verbos no futuro, no meio de dois hífens - (encontrá-lo-ei; propor-se-á; dizer-lhe-ei);
+-Procurar ênclise, pronomes sempre depois do verbo acompanhados de um hífen - (-lo, -la, -se, -me, -te, -lhe, -lhes, -nos, -no, -vos)

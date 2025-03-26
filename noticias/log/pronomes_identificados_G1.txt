@@ -1,0 +1,161 @@
+
+== Noticia1 ==
+   - Pronome: "se", Verbo: "hospedar", Tipo: Próclise, Contexto: "essa iniciativa, startups poderão se hospedar no CBA e desenvolver (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia2 ==
+   - Pronome: "me", Verbo: "sinto", Tipo: Próclise, Contexto: "sinto muita falta de ar, me sinto muito mole, e eu (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia3 ==
+- Total de pronomes encontrados: 0
+
+
+== Noticia4 ==
+   - Pronome: "se", Verbo: "divide", Tipo: Próclise, Contexto: "Regislaine Aparecida da Silva se divide entre a RL Clínica (...)"
+   - Pronome: "se", Verbo: "inscreveu", Tipo: Próclise, Contexto: "apoio do Sebrae Minas, Regislaine se inscreveu no Programa ALI, uma (...)"
+   - Pronome: "se", Verbo: "sinta", Tipo: Próclise, Contexto: "mesmo que, por algumas vezes se sinta sobrecarregada."
+- Total de pronomes encontrados: 3
+
+
+== Noticia5 ==
+- Total de pronomes encontrados: 0
+
+
+== Noticia6 ==
+   - Pronome: "a", Verbo: "levou", Tipo: Próclise, Contexto: "vítima, que estava inconsciente, e a levou para o Hospital Regional (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia7 ==
+   - Pronome: "se", Verbo: "preparava", Tipo: Próclise, Contexto: "O casal se preparava para ir para o (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia8 ==
+   - Pronome: "se", Verbo: "vacinado", Tipo: Próclise, Contexto: "apenas após um ano) Ter se vacinado (o prazo para doar (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia9 ==
+   - Pronome: "fazê-la", Verbo: "fazer", Tipo: Ênclise, Contexto: "desejam ter a oportunidade de fazê-la após a decisão da Justiça."
+   - Pronome: "realizá-la", Verbo: "realizar", Tipo: Ênclise, Contexto: "mas que têm direito a realizá-la, serão convocados para esse procedimento."
+   - Pronome: "mostrando-se", Verbo: "mostrando", Tipo: Ênclise, Contexto: "respeito aos princípios da legalidade, mostrando-se empenhado em buscar uma solução (...)"
+   - Pronome: "se", Verbo: "reuniram", Tipo: Próclise, Contexto: "Secretaria Municipal de Educação (Semec) se reuniram o promotor Francisco de (...)"
+   - Pronome: "se", Verbo: "obtiver", Tipo: Próclise, Contexto: "eliminado do concurso da Semec se obtiver o percentual mínimo nas (...)"
+   - Pronome: "a", Verbo: "realizar", Tipo: Próclise, Contexto: "prova, mas que têm direito a realizá-la, serão convocados para esse (...)"
+- Total de pronomes encontrados: 6
+
+
+== Noticia10 ==
+- Total de pronomes encontrados: 0
+
+
+== Noticia11 ==
+   - Pronome: "a", Verbo: "atender", Tipo: Próclise, Contexto: "fechar, mas que vai passar a atender estudantes do 7º ao (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia12 ==
+   - Pronome: "se", Verbo: "comprometeram", Tipo: Próclise, Contexto: "as três empresas envolvidas, que se comprometeram a indenizar em R (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia13 ==
+   - Pronome: "se", Verbo: "renova", Tipo: Próclise, Contexto: "das grandes cidades, a miséria se renova."
+   - Pronome: "se", Verbo: "morre", Tipo: Próclise, Contexto: "é a morte de que se morre de velhice antes dos (...)"
+   - Pronome: "a", Verbo: "transformam", Tipo: Próclise, Contexto: "um local de passagem e a transformam em moradia."
+   - Pronome: "se", Verbo: "resume", Tipo: Próclise, Contexto: "Mas a história deles não se resume a isso. "É muito (...)"
+   - Pronome: "me", Verbo: "matar", Tipo: Próclise, Contexto: "Os caras querem me matar, furar o cara."
+   - Pronome: "se", Verbo: "repete", Tipo: Próclise, Contexto: "O cenário se repete em inúmeras cidades brasileiras (...)"
+   - Pronome: "a", Verbo: "enxergar", Tipo: Próclise, Contexto: "sociedade que ainda não aprendeu a enxergar seus severinos. "São invisíveis."
+- Total de pronomes encontrados: 7
+
+
+== Noticia14 ==
+- Total de pronomes encontrados: 0
+
+
+== Noticia17 ==
+   - Pronome: "se", Verbo: "comprometeu", Tipo: Próclise, Contexto: "foi preso, uma vez que se comprometeu a comparecer ao Juizado (...)"
+   - Pronome: "a", Verbo: "comparecer", Tipo: Próclise, Contexto: "uma vez que se comprometeu a comparecer ao Juizado Especial da (...)"
+- Total de pronomes encontrados: 2
+
+
+== Noticia19 ==
+   - Pronome: "se", Verbo: "sabe", Tipo: Próclise, Contexto: "Não se sabe se há ligação entre (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia21 ==
+- Total de pronomes encontrados: 0
+
+
+== Noticia22 ==
+   - Pronome: "se", Verbo: "inscreveu", Tipo: Próclise, Contexto: "Dessa forma, quem ainda não se inscreveu, terá um prazo maior (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia24 ==
+   - Pronome: "fundamenta-se", Verbo: "fundamenta", Tipo: Ênclise, Contexto: "A decisão, portanto, fundamenta-se não apenas na gravidade do (...)"
+   - Pronome: "se", Verbo: "faz", Tipo: Próclise, Contexto: "ordem pública, a prisão temporária se faz necessária para garantir a (...)"
+   - Pronome: "se", Verbo: "preservar", Tipo: Próclise, Contexto: "mas também na necessidade de se preservar a tranquilidade e a (...)"
+- Total de pronomes encontrados: 3
+
+
+== Noticia27 ==
+   - Pronome: "se", Verbo: "prepararam", Tipo: Próclise, Contexto: "das últimas semanas, os alunos se prepararam para apresentar uma diversificada (...)"
+   - Pronome: "se", Verbo: "orgulhava", Tipo: Próclise, Contexto: "atenta interagia as apresentações e se orgulhava da sua cultura e (...)"
+   - Pronome: "nos", Verbo: "deixou", Tipo: Próclise, Contexto: "história, do legado que ela nos deixou e de como devemos (...)"
+   - Pronome: "nos", Verbo: "manter", Tipo: Próclise, Contexto: "deixou e de como devemos nos manter firmes nessa luta constante (...)"
+- Total de pronomes encontrados: 4
+
+
+== Noticia30 ==
+- Total de pronomes encontrados: 0
+
+
+== Noticia31 ==
+- Total de pronomes encontrados: 0
+
+
+== Noticia32 ==
+   - Pronome: "se", Verbo: "feriu", Tipo: Próclise, Contexto: "A motorista do veículo não se feriu, mas também foi levada (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia151 ==
+- Total de pronomes encontrados: 0
+
+
+== Noticia152 ==
+   - Pronome: "me", Verbo: "apoiaram", Tipo: Próclise, Contexto: "médicos e a todos que me apoiaram nessa caminhada. ” Trombose A (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia153 ==
+- Total de pronomes encontrados: 0
+
+
+== Noticia154 ==
+   - Pronome: "se", Verbo: "intensificaram", Tipo: Próclise, Contexto: "Israel e o Hezbollah, que se intensificaram em setembro passado."
+   - Pronome: "se", Verbo: "pode", Tipo: Próclise, Contexto: "costa sul do Líbano, “não se pode dizer a alguém que (...)"
+   - Pronome: "se", Verbo: "pode", Tipo: Próclise, Contexto: "precisa de comer que não se pode pescar”, disse Bikai."
+- Total de pronomes encontrados: 3
+
+
+== Noticia155 ==
+- Total de pronomes encontrados: 0
+
+
+== Noticia761 ==
+   - Pronome: "banhar-se", Verbo: "banhar", Tipo: Ênclise, Contexto: "répteis, o teiú gosta de banhar-se ao sol, em gramados, pedras (...)"
+- Total de pronomes encontrados: 1
+
+
+== Noticia762 ==
+- Total de pronomes encontrados: 0
+
+Total geral de pronomes encontrados em todos os arquivos: 40

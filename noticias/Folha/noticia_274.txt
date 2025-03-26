@@ -1,0 +1,48 @@
+Link: https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2024/11/acordo-da-cop29-sobre-mercado-global-pode-estabilizar-precos-de-creditos-de-carbono.shtml
+Corpo: SÃO PAULO
+O mercado voluntário de carbono pode ganhar maturidade a partir da criação de um mercado formal que permita a países e empresas comprar créditos para compensar suas emissões. No início da COP29, em Baku (Azerbaijão), neste mês, diplomatas responsáveis pelas discussões climáticas de seus países entraram em acordo sobre questões travadas há cerca de dez anos.
+Ainda há vários pontos a serem debatidos sobre o artigo que cria esse mecanismo no Acordo de Paris, mas, para quem acompanha esse mercado, é provável que uma decisão final ajude a diminuir as flutuações nos preços dos créditos de carbono.
+Voluntário da COP29, em Baku, no Azerbaijão - Maxim Shemetov/Reuters
+Isso porque o acordo selado na COP29 estabelece passos para que a ONU se torne uma certificadora de créditos de carbono, o que deve dar mais credibilidade e equilíbrio ao mercado de compensação de emissões. Apenas esses créditos poderão ser comercializados entre países.
+Um crédito de carbono equivale a uma tonelada de gás carbônico (ou o equivalente em outros gases) absorvida da atmosfera ou que deixou de ser emitida. No Brasil, a forma mais comum de gerar esses créditos é por meio de projetos que evitam o desmatamento em uma área florestal –a grande maioria na floresta amazônica. Mas existem hoje ao menos oito modalidades de créditos de carbono no mundo, inclusive a partir do aumento de eficiência de um fogão a lenha.
+Esses créditos são vendidos para empresas que querem diminuir suas pegadas de carbono sem, necessariamente, trocar seus modos de produção. Essas companhias usam os créditos para compensarem suas emissões (diretas e indiretas) e assim poderem dizer que são "carbono neutro".
+PUBLICIDADE
+Em 2021, o melhor ano desse mercado, foram registradas vendas de 516 milhões de créditos de carbono, que somaram US$ 2,1 bilhões (R$ 12,2 bi). Os dados são organização Ecosystem Marketplace, que divulga relatórios anuais com base em formulários não obrigatórios preenchidos por atores do mercado.
+Essas negociações, porém, têm vivido oscilações frequentes nos últimos anos, ao ponto de que no ano passado o valor do mercado caiu a patamares semelhantes ao da primeira década dos anos 2000, quando o mercado ainda existia a partir de um mecanismo do Protocolo de Kyoto, de 1997. Em 2023, o mercado encolheu para 111 milhões de créditos, gerando um valor de mercado de US$ 723 milhões.
+A principal razão passa pela desconfiança de ativistas ambientais e alguns cientistas quanto à real eficácia desse mecanismo –eles argumentam que a compensação por meio de créditos de carbono é uma forma de empresas e países poluidores continuarem emitindo gases de efeito estufa, sem fazer esforço para alterar seus modos de produção.
+Mas o perfil do mercado também mudou ao longo dos anos. Em 2020, a maioria dos créditos de carbono registrados nas certificadoras vinha de projetos de energia renovável que conseguiam comprovar que estavam evitando emissões de gases poluentes. O registro desses créditos caiu quando as principais certificadoras do mercado deixaram de chancelá-los, sob o argumento de que as energias renováveis já eram economicamente viáveis e, portanto, os projetos não geravam adicionalidade.
+Hoje, a maioria dos créditos vêm de mudanças domésticas e comunitárias, como o uso de biogás em fogões. Os projetos florestais, bastante comuns no Brasil e em outros países tropicais, geram o terceiro tipo de crédito mais registrado e são os mais caros, segundo a Ecosystem Marketplace.
+E a forma como esses créditos são gerados também influencia a precificação. Um crédito advindo de um projeto de reflorestamento tende a ser vendido por valores maiores que aqueles gerados em projetos de conservação florestal. Além disso, projetos florestais na África tendem a ser mais caros que os do Brasil –de janeiro a setembro deste ano, os créditos brasileiros eram vendidos em média a US$ 8,8; já na Etiópia a US$ 18, segundo a provedora de dados Viridios.
+"Durante anos, houve iniciativas de tentar comoditizar os créditos e estabilizar seus preços. Mas ao mesmo tempo houve iniciativas que visavam reconhecer que os créditos são diferentes e atendem com maior ou menor intensidade a determinados critérios de qualidade e integridade", afirma Breno Rates, sócio-diretor de projetos da Waycarbon, empresa de soluções em sustentabilidade.
+Essas análises são feitas por empresas privadas que classificam os projetos de acordo com seus impactos positivos, em um processo semelhante aos níveis de eficiência energética de eletrodomésticos no Brasil.
+"Um projeto de geração de crédito de carbono no cinturão da área de desmatamento da Amazônia, por exemplo, vai valer muito mais do que um crédito gerado em um projeto em uma área da floresta que não tem tanto impacto", diz Fernanda Valente, pesquisadora do Observatório de Bioeconomia da FGV.
+A falta de regulação desse mercado, porém, dificulta o monitoramento real da flutuação dos preços. Algumas organizações, como Ecosystem Marketplace, Viridios e MSCI, tentam agrupar valores repassados por agentes do mercado, mas não há obrigação de vendedores e compradores reportarem suas negociações para uma entidade. Em alguns casos, aliás, o crédito vindo de um mesmo projeto pode ser vendido por preços distintos, a depender das negociações.
+"Achar dados para o mercado voluntário de carbono é como catar milho: é bem difícil. O fato de as negociações serem privadas faz a gente não ter conhecimento sobre o preço, e essa falta de transparência e padronização é um dos pontos de enfraquecimento desse mercado" afirma Valente.
+A entrada da ONU nesse mercado deve ajudar a organizar os dados. É provável que os créditos chancelados pela certificadora ligada à organização sejam vistos pelas empresas como os mais efetivos do mercado, o que aumentará o leque de dados e informações nas mãos das Nações Unidas. Hoje, os créditos são chancelados por organizações privadas.
+Além disso, apontam especialistas, companhias e países interessados em compensar oficialmente suas emissões buscarão comprar aqueles créditos mais baratos (afinal, todos correspondem à mesma quantidade de CO2 evitado). Assim, esse processo pode ajudar na comoditização dos créditos de carbono e na menor flutuação dos preços.
+"Mas para o Brasil, isso não é imediatamente aplicável porque ainda precisamos de regulamentações internas mais precisas", afirma Mariama Vendramini, diretora da Aliança Brasil NBS, que reúne desenvolvedoras de créditos. O país ainda precisa definir, por exemplo, se aceitará os créditos chancelados pela ONU em seu mercado regulado de carbono —a ser sancionado pelo presidente Lula nos próximos dias.
+Apesar da retração no volume total do mercado em 2023, os preços dos créditos continuaram subindo. De acordo com a Ecosystem Marketplace, dos oito tipos de créditos mapeados, apenas um (agricultura) é vendido hoje por preços abaixo daquela época, inclusive considerando o reajuste da inflação –não há dados de 2023 para os créditos vindos do setor de transporte.
+A explicação passa pela qualidade dos projetos, que precisou crescer para que as desenvolvedoras de créditos de carbono conseguissem sobreviver à relutância do mercado. Isso porque em 2021 o jornal britânico The Guardian iniciou a publicação de uma série de reportagens investigativas levantando suspeitas sobre o modo como esses créditos eram gerados. Os textos, publicados até hoje, atingiram a Verra, certificadora responsável por chancelar quase 70% dos créditos no mercado.
+Manguezais podem gerar R$ 48 bi em créditos de carbono para o Brasil
+DÊ UM CONTEÚDO
+Salvar para ler depois
+SALVAR ARTIGOS
+Recurso exclusivo para assinantes
+1
+tópicos
+relacionados
+LEIA TUDO SOBRE O TEMA E SIGA:
+azerbaijão
+cop29
+mudança climática
+onu
+sua assinatura pode valer ainda mais
+Você já conhece as vantagens de ser assinante da Folha? Além de ter acesso a reportagens e colunas, você conta com newsletters exclusivas (conheça aqui). Também pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play para receber alertas das principais notícias do dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de qualidade. Obrigado!
+sua assinatura vale muito
+ENVIE SUA NOTÍCIA
+ERRAMOS?
+ENDEREÇO DA PÁGINA
+comentários
+Os comentários não representam a opinião do jornal; a responsabilidade é do autor da mensagem.
+COMENTE
+Comentar é exclusividade para assinantes.

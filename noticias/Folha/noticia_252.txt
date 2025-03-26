@@ -1,0 +1,78 @@
+Link: https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2024/11/veja-quem-tem-direito-ao-13o-proporcional-e-como-calcular-o-valor.shtml
+Corpo: SÃO PAULO
+O 13º salário proporcional é um benefício pago a empregados com carteira assinada que foram contratados a partir de 18 de janeiro de 2024 ou que não completaram 12 meses de serviço no ano, como demitidos sem justa causa (que recebem na hora da rescisão) e temporários.
+O valor é calculado com base nos meses com registro em carteira —os meses em que houve pelo menos 15 dias de trabalho também entram nesse cálculo.
+Empregadores têm até o dia 30 de novembro para pagar a primeira parcela do 13º salário proporcional. A segunda tem como prazo máximo o dia 20 de dezembro. Se optar por pagar o benefício de uma só vez, o contratante precisa fazer isso até o final de novembro.
+Caso o trabalhador tenha pelo menos 15 dias trabalhados em um mês, este é considerado integral para fins de cálculo. - Gabriel Cabral/Folhapress
+Para pagar o 13º salário proporcional, divide-se o salário bruto por 12 e multiplica-se pelo número de meses trabalhados com ao menos 15 dias.
+No caso de empregados domésticos, o pagamento do benefício é feito pelo sistema do eSocial, do governo federal.
+VEJA AS PERGUNTAS E RESPOSTAS
+Como é feito o cálculo do 13º salário proporcional?
+Horas extras e outros adicionais entram na soma?
+Quem tem direito ao benefício proporcional?
+Como pagar o 13º salário proporcional para empregados domésticos?
+COMO É FEITO O CÁLCULO DO 13º SALÁRIO PROPORCIONAL?
+O valor é definido dividindo o salário por 12 e multiplicando pelo número de meses trabalhados no ano (contando apenas os meses com mais de 15 dias de trabalho).
+Por exemplo, com um salário mínimo de R$ 1.412 e quatro meses de trabalho:
+O valor por mês seria R$ 1.412 ÷ 12 = R$ 117,67.
+Multiplicando pelos meses trabalhados: R$ 117,67 × 4 = R$ 470,68.
+Nesse caso, o trabalhador receberia R$ 470,68 como 13º proporcional. O cálculo é simples, mas fique atento a descontos que podem ser aplicados, como INSS ou Imposto de Renda, para quem recebe um salário acima do limite de isenção.
+HORAS EXTRAS E OUTROS ADICIONAIS ENTRAM NA SOMA?
+Trabalhadores que recebem horas extras ou adicional noturno têm direito a incluir esses valores no cálculo do 13º salário.
+No exemplo acima, com o salário mínimo, o trabalhador receberia o valor de R$ 470,68. Veja como funciona a inclusão dos adicionais:
+Calcule o valor da hora trabalhada
+Por exemplo, para quem recebe R$ 1.412 (salário mínimo) por mês e trabalha 220 horas (jornada de 44 horas semanais): R$ 1.412 ÷ 220 = R$ 6,42
+Verifique a média de horas extras. Inclua o adicional e multiplique pelo número total de horas extras trabalhadas. Divida o total pelos meses com horas extras.
+Exemplo, considerando o funcionário com quatro meses de trabalho em 2024:
+Hora extra: R$ 6,42 × 1,5 (adicional de 50%) = R$ 9,63.
+Total de 40 horas extras: 40 × R$ 9,63 = R$ 385,20.
+Média mensal: R$ 385,20 ÷ 4 = R$ 96,30.
+
+Inclua o adicional noturno, se houver. Some os valores recebidos ao longo do ano e divida pelos meses trabalhados.
+Exemplo:
+R$ 150 ÷ 4 = R$ 37,50.
+Somando tudo, o valor total do benefício proporcional será:
+Base: R$ 470,68.
+Horas extras: R$ 96,30.
+Adicional noturno: R$ 37,50.
+Total do 13º salário proporcional com adicionais: R$ 604,48.
+Esse cálculo é obrigatório e garante que o trabalhador receba a remuneração completa, considerando todos os acréscimos ao salário-base.
+QUEM TEM DIREITO AO BENEFÍCIO PROPORCIONAL?
+Profissionais com carteira assinada — incluindo empregados domésticos, rurais, urbanos e avulsos — que começaram a trabalhar após o dia 18 de janeiro de 2024. Além disso, trabalhadores temporários também têm direito ao 13º salário no final do ano.
+Pessoas demitidas sem justa causa recebem o benefício proporcional aos meses trabalhados na rescisão do contrato.
+COMO PAGAR O 13º SALÁRIO PROPORCIONAL PARA EMPREGADOS DOMÉSTICOS?
+O eSocial calcula automaticamente o valor da primeira parcela do benefício, levando em consideração os meses trabalhados no ano.
+Passo a passo no eSocial:
+Acesse o sistema: Entre no site do eSocial doméstico e faça seu login.
+Vá para a folha de pagamento: No menu, clique em "Folha de Pagamento" e depois em "Dados de folha de pagamento".
+Selecione o ano: Escolha o ano atual para visualizar e registrar o pagamento.
+Adicione o adiantamento do 13º salário: Clique no cadastro do empregado doméstico e selecione "Adicionar outros vencimentos/pagamentos". Na aba de "Pagamentos", escolha "13º Salário - Adiantamento". Use a rubrica de número 1800 para preencher o valor da primeira parcela. Em seguida, salve.
+Geração de recibos e guia DAE: Após salvar, o sistema gera dois recibos (um da primeira parcela do 13º e outro da folha mensal) e a guia de pagamento DAE. Salve esses documentos para referência
+O eSocial também faz a conta das horas extras e adicionais, que devem ser informadas pelo empregador.
+DÊ UM CONTEÚDO
+Salvar para ler depois
+SALVAR ARTIGOS
+Recurso exclusivo para assinantes
+1
+tópicos
+relacionados
+LEIA TUDO SOBRE O TEMA E SIGA:
+desemprego
+mercado de trabalho
+salário
+sua assinatura pode valer ainda mais
+Você já conhece as vantagens de ser assinante da Folha? Além de ter acesso a reportagens e colunas, você conta com newsletters exclusivas (conheça aqui). Também pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play para receber alertas das principais notícias do dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de qualidade. Obrigado!
+sua assinatura vale muito
+ENVIE SUA NOTÍCIA
+ERRAMOS?
+ENDEREÇO DA PÁGINA
+comentários
+Os comentários não representam a opinião do jornal; a responsabilidade é do autor da mensagem.
+JOSE PRADO
+Há 5 horas
+E funcionário público? Parece que só quem é CLT lê esse jornal!!
+RESPONDA
+0
+DENUNCIE
+TODOS OS COMENTÁRIOS (1) COMENTE
+Comentar é exclusividade para assinantes.
