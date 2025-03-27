@@ -71,19 +71,19 @@ Expressões ambíguas ou indesejadas
 - Total de pronomes encontrados: 3
 <br>
 # 🚀 Como executar
-<br>
 
-## Instale os requisitos (incluindo spacy):
+
+Instale os requisitos (incluindo spacy):
 
     ```bash
     pip install -r requirements.txt
 
-## Baixe o modelo do spaCy:
+Baixe o modelo do spaCy:
 
     ```bash
     python -m spacy download pt_core_news_lg
 
-## Execute o script principal:
+Execute o script principal:
 
     ```bash
     python analisar_pronomes.py
