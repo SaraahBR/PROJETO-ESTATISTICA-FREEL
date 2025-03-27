@@ -74,14 +74,17 @@ Expressões ambíguas ou indesejadas
 <br>
 
 ## Instale os requisitos (incluindo spacy):
+
     ```bash
     pip install -r requirements.txt
 
 ## Baixe o modelo do spaCy:
+
     ```bash
     python -m spacy download pt_core_news_lg
 
 ## Execute o script principal:
+
     ```bash
     python analisar_pronomes.py
 
