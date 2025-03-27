@@ -70,6 +70,7 @@ Expressões ambíguas ou indesejadas
  - Pronome: "Encontrá-lo-ei", Verbo: "encontrar", Tipo: Mesóclise, Contexto: "Encontrá-lo-ei algum dia entre as estrelas."
 - Total de pronomes encontrados: 3
 <br>
+
 # 🚀 Como executar
 
 
