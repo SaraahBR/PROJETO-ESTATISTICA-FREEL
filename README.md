@@ -69,17 +69,21 @@ Expressões ambíguas ou indesejadas
  - Pronome: "vê-las", Verbo: "ver", Tipo: Ênclise, Contexto: "Quero vê-las antes do evento."
  - Pronome: "Encontrá-lo-ei", Verbo: "encontrar", Tipo: Mesóclise, Contexto: "Encontrá-lo-ei algum dia entre as estrelas."
 - Total de pronomes encontrados: 3
-  
+<br>
 # 🚀 Como executar
+<br>
 
-# Instale os requisitos (incluindo spacy):
-pip install -r requirements.txt
+## Instale os requisitos (incluindo spacy):
+    ```bash
+    pip install -r requirements.txt
 
-# Baixe o modelo do spaCy:
-python -m spacy download pt_core_news_lg
+## Baixe o modelo do spaCy:
+    ```bash
+    python -m spacy download pt_core_news_lg
 
-# Execute o script principal:
-python analisar_pronomes.py
+## Execute o script principal:
+    ```bash
+    python analisar_pronomes.py
 
 Confira os resultados na pasta /log.
 
